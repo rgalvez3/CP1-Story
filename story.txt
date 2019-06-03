@@ -7,7 +7,6 @@ I drank a glass of milk
 I went to school
 i  went to period 3
 i did study
-i did test
 i took a nap
 I came out of school
 I went home
@@ -17,4 +16,16 @@ I went to sleep
 I woke up  
 i saw a movie 
 I went back to sleep
+
+On Saturday, I woke up
+Brushed my teeth
+saw a cartoon
+drank water
+watched tv
+did homework 
+studied how cans are made
+took a nap
+ate peanut butter
+went to sleep for 9 hours
+
 
